@@ -13,3 +13,4 @@ $terraform apply -var-file=configurations/dev/us-east-1/dev.tf --auto-approve -v
 
 
 Reminder every project is in the feature/isa-study branch
+
